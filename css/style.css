@@ -1,0 +1,11 @@
+:root {
+ --white: #fff;
+ --dark-blue: #13293d;
+ --tan: #d8a47f;
+}
+
+body {
+    font-size: 16 px;
+    display: flex;
+    background-color: var(--dark-blue);
+}
